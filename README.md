@@ -105,26 +105,13 @@ A static FEA was conducted on the redesigned frame to validate structural integr
 **Key insight:** The FoS of 1.35 under static loading confirms the dual-spring suspension is essential — dynamic impacts (potholes, kerbs) can multiply forces by 2–3×, which would approach the yield limit without the suspension absorbing peak loads before they reach the frame.
 
 ---
-
-## Files
-
-```
-bicycle-dfma-redesign/
-├── README.md
-├── report/
-│   └── FINAL_REPORT.pdf             ← Full 116-page report
-├── solidworks/
-│   └── (SolidWorks assembly files)  ← Add your .SLDASM files here
-├── fea/
-│   ├── von_mises_stress.png         ← Stress contour plot
-│   ├── displacement.png             ← Displacement result
-│   ├── factor_of_safety.png         ← FoS distribution
-│   └── strain.png                   ← Equivalent strain
-└── design/
-    ├── bicycle_right_view.png       ← SolidWorks renders
-    ├── bicycle_angled_view.png
-    └── suspension_concepts.png      ← Concept sketches
-```
+### Visualisations
+<img width="1167" height="944" alt="image" src="https://github.com/user-attachments/assets/36f7ff30-44c9-48df-a985-652558a9c306" />
+<img width="853" height="585" alt="image" src="https://github.com/user-attachments/assets/157c62e4-40e2-4ed5-9906-fd01df9ca1c7" />
+<img width="1110" height="816" alt="image" src="https://github.com/user-attachments/assets/49c7e534-57d0-4445-904c-426338f294de" />
+<img width="823" height="545" alt="image" src="https://github.com/user-attachments/assets/7f6663ec-7950-419a-81a1-39c9ab704e02" />
+<img width="987" height="664" alt="image" src="https://github.com/user-attachments/assets/d7a945b2-3d25-4c78-81f1-264cca6abfb4" />
+<img width="1103" height="565" alt="image" src="https://github.com/user-attachments/assets/bfbc89a8-7d75-4cc4-985a-8f4a8b4328ac" />
 
 ---
 
